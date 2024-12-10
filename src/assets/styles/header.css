@@ -1,0 +1,11 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.banner {
+  background-image: url("../background.jpeg");
+  z-index: -1;
+  
+}
